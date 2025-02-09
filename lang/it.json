@@ -1,0 +1,21 @@
+{
+    "headerTitle": "Portfolio di [Il Tuo Nome]",
+    "navInfo": "Informazioni",
+    "navExperience": "Esperienze",
+    "navProjects": "Progetti",
+    "navCv": "CV",
+    "infoTitle": "Informazioni",
+    "infoText": "Ciao! Mi chiamo [Il Tuo Nome] e sono un back-end developer con esperienza in [elenco delle tue competenze principali].",
+    "experienceTitle": "Esperienze",
+    "experienceList": "<li><strong>[Nome Azienda]</strong> - [Ruolo] (da [Data Inizio] a [Data Fine])</li>",
+    "projectsTitle": "Progetti",
+    "project1Title": "[Nome Progetto 1]",
+    "project1Tech": "Tecnologie utilizzate:",
+    "project1Desc": "Descrizione:",
+    "project1Link": "Vedi progetto",
+    "cvTitle": "CV",
+    "cvText": "Scarica il mio CV in formato PDF:",
+    "cvItalian": "Scarica CV in Italiano",
+    "cvEnglish": "Scarica CV in Inglese",
+    "footerText": "© [Anno] [Il Tuo Nome]. Tutti i diritti riservati."
+}
