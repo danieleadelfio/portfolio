@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio di [Il Tuo Nome]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1 id="header-title">Portfolio di [Il Tuo Nome]</h1>
+        <div class="language-switcher">
+            <button onclick="changeLanguage('it')">Italiano</button>
+            <button onclick="changeLanguage('en')">English</button>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#informazioni" id="nav-info">Informazioni</a>
+        <a href="#esperienze" id="nav-experience">Esperienze</a>
+        <a href="#progetti" id="nav-projects">Progetti</a>
+        <a href="#cv" id="nav-cv">CV</a>
+    </nav>
+
+    <div class="container">
+        <section id="informazioni">
+            <h2 id="info-title">Informazioni</h2>
+            <p id="info-text">Ciao! Mi chiamo [Il Tuo Nome] e sono un back-end developer con esperienza in [elenco delle tue competenze principali].</p>
+        </section>
+
+        <section id="esperienze">
+            <h2 id="experience-title">Esperienze</h2>
+            <ul id="experience-list">
+                <li><strong>[Nome Azienda]</strong> - [Ruolo] (da [Data Inizio] a [Data Fine])</li>
+            </ul>
+        </section>
+
+        <section id="progetti">
+            <h2 id="projects-title">Progetti</h2>
+            <div class="project">
+                <h3 id="project1-title">[Nome Progetto 1]</h3>
+                <p><strong id="project1-tech">Tecnologie utilizzate:</strong> [Elenco delle tecnologie]</p>
+                <p><strong id="project1-desc">Descrizione:</strong> [Breve descrizione del progetto]</p>
+                <p><strong>Link:</strong> <a href="[Link al progetto o repository]" target="_blank" id="project1-link">Vedi progetto</a></p>
+            </div>
+        </section>
+
+        <section id="cv" class="cv-section">
+            <h2 id="cv-title">CV</h2>
+            <p id="cv-text">Scarica il mio CV in formato PDF:</p>
+            <a href="[Link al CV in Italiano]" download="CV_[Il Tuo Nome]_Italiano.pdf" id="cv-italian">Scarica CV in Italiano</a>
+            <a href="[Link al CV in Inglese]" download="CV_[Il Tuo Nome]_Inglese.pdf" id="cv-english">Scarica CV in Inglese</a>
+        </section>
+    </div>
+
+    <footer>
+        <p id="footer-text">&copy; [Anno] [Il Tuo Nome]. Tutti i diritti riservati.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
