@@ -1,11 +1,11 @@
 {
-    "headerTitle": "Portfolio di [Il Tuo Nome]",
+    "headerTitle": "Portfolio di Daniele Adelfio",
     "navInfo": "Informazioni",
     "navExperience": "Esperienze",
     "navProjects": "Progetti",
     "navCv": "CV",
     "infoTitle": "Informazioni",
-    "infoText": "Ciao! Mi chiamo [Il Tuo Nome] e sono un back-end developer con esperienza in [elenco delle tue competenze principali].",
+    "infoText": "Ciao! Mi chiamo Daniele Adelfio e sono un back-end developer con esperienza in [elenco delle tue competenze principali].",
     "experienceTitle": "Esperienze",
     "experienceList": "<li><strong>[Nome Azienda]</strong> - [Ruolo] (da [Data Inizio] a [Data Fine])</li>",
     "projectsTitle": "Progetti",
@@ -17,5 +17,5 @@
     "cvText": "Scarica il mio CV in formato PDF:",
     "cvItalian": "Scarica CV in Italiano",
     "cvEnglish": "Scarica CV in Inglese",
-    "footerText": "© [Anno] [Il Tuo Nome]. Tutti i diritti riservati."
+    "footerText": "© [Anno] Daniele Adelfio. Tutti i diritti riservati."
 }
