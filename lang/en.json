@@ -1,13 +1,13 @@
 {
-    "headerTitle": "Portfolio of [Your Name]",
+    "headerTitle": "Portfolio of Daniele Adelfio",
     "navInfo": "About",
     "navExperience": "Experience",
     "navProjects": "Projects",
     "navCv": "CV",
     "infoTitle": "About",
-    "infoText": "Hi! My name is [Your Name] and I am a back-end developer with experience in [list your main skills].",
+    "infoText": "Hi! My name is Daniele Adelfio and I am a back-end developer with experience in [list your main skills].",
     "experienceTitle": "Experience",
-    "experienceList": "<li><strong>[Company Name]</strong> - [Role] (from [Start Date] to [End Date])</li>",
+    "experienceList": "<li><strong>Findynamic Srl</strong> - [Role] (from [Start Date] to [End Date])</li>",
     "projectsTitle": "Projects",
     "project1Title": "[Project Name 1]",
     "project1Tech": "Technologies used:",
@@ -17,5 +17,5 @@
     "cvText": "Download my CV in PDF format:",
     "cvItalian": "Download CV in Italian",
     "cvEnglish": "Download CV in English",
-    "footerText": "© [Year] [Your Name]. All rights reserved."
+    "footerText": "© [Year] Daniele Adelfio. All rights reserved."
 }
