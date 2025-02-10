@@ -36,6 +36,15 @@ function updateContent() {
     document.getElementById('project1-tech').textContent = langData.project1Tech;
     document.getElementById('project1-desc').textContent = langData.project1Desc;
     document.getElementById('project1-link').textContent = langData.project1Link;
+    document.getElementById('technologies-title').textContent = langData.technologiesTitle;
+    document.getElementById('programming-languages').textContent = langData.programmingLanguages;
+    document.getElementById('framework-libraries').textContent = langData.frameworkAndLibraries;
+    document.getElementById('dev-tools').textContent = langData.devTools;
+    document.getElementById('db-used').textContent = langData.dbUsed;
+    document.getElementById('cloud-dev-ops').textContent = langData.cloudDevOps;
+    document.getElementById('code-management').textContent = langData.codeManagement;
+    document.getElementById('testing').textContent = langData.testing;
+    document.getElementById('others').textContent = langData.others;
     document.getElementById('cv-title').textContent = langData.cvTitle;
     document.getElementById('cv-text').textContent = langData.cvText;
     document.getElementById('cv-italian').textContent = langData.cvItalian;
