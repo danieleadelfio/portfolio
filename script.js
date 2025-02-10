@@ -25,7 +25,7 @@ function updateContent() {
     document.getElementById('header-title').textContent = langData.headerTitle;
     document.getElementById('nav-info').textContent = langData.navInfo;
     document.getElementById('nav-experience').textContent = langData.navExperience;
-    document.getElementById('nav-projects').textContent = langData.navProjects;
+    document.getElementById('nav-nav-technologies').textContent = langData.navTechnologies;
     document.getElementById('nav-cv').textContent = langData.navCv;
     document.getElementById('info-title').textContent = langData.infoTitle;
     document.getElementById('info-text').textContent = langData.infoText;
